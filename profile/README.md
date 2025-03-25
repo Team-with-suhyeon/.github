@@ -2,8 +2,10 @@
 <br>
 <br>
 
+# 🅿️ 프로젝트 설명 
+### 완벽하게 엄빠 몰래 가는 여행 수현이랑</br></br>
 
-# Team Members (팀원 및 팀 소개)
+# 👥 Team Members (팀원 및 팀 소개)
  | 이자민 | 왕서희 | 이민재 | 권하영 |
  |:------:|:------:|:------:|:------:|
  | <img src="https://github.com/user-attachments/assets/84ed75b2-632c-4ea9-92e5-37bb6ae4a4d7" alt="이자민" width="150"> | <img src="https://github.com/user-attachments/assets/d2522d97-4b9c-4989-a1ef-cb91683cc0d5" alt="왕서희" width="150"> | <img src="https://github.com/user-attachments/assets/d2522d97-4b9c-4989-a1ef-cb91683cc0d5" alt="이민재" width="150"> | <img src="https://github.com/user-attachments/assets/d2522d97-4b9c-4989-a1ef-cb91683cc0d5" alt="권하영" width="150"> |
